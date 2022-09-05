@@ -1,0 +1,10 @@
+/Users/air/Documents/programmingwork/anchorFramework/anchor/examples/tutorial/basic-1/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-544f3968737cf5ed.rmeta: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_digester.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_example.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/hash.rs
+
+/Users/air/Documents/programmingwork/anchorFramework/anchor/examples/tutorial/basic-1/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-544f3968737cf5ed.rlib: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_digester.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_example.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/hash.rs
+
+/Users/air/Documents/programmingwork/anchorFramework/anchor/examples/tutorial/basic-1/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-544f3968737cf5ed.d: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_digester.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_example.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/hash.rs
+
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/lib.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_digester.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/abi_example.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.38/src/hash.rs:

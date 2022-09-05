@@ -1,0 +1,59 @@
+Streaming transaction logs mentioning 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC. Confirmed commitment
+Transaction executed in slot 336321:
+  Signature: Yys2a7m5AgbivHb4rMbD99mx1GhaF9sCbNxeVLZJFfGbWbcNj2exM2Hg6ZoHgVv3JrFau7adRDTYNGqsjeUmE5X
+  Status: Ok
+  Log Messages:
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC consumed 6315 of 1400000 compute units
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC success
+Transaction executed in slot 336321:
+  Signature: NsKyUDHUU6zWNRW9F832b6Vanhk5NbcLYSAP7KS9GdanZndZPh95zAUrVeBqA48sexwAZyUSRWHDJFyJrQUbbr1
+  Status: Ok
+  Log Messages:
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC invoke [1]
+    Program log: Instruction: Update
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC consumed 1337 of 1400000 compute units
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC success
+Transaction executed in slot 336322:
+  Signature: NsKyUDHUU6zWNRW9F832b6Vanhk5NbcLYSAP7KS9GdanZndZPh95zAUrVeBqA48sexwAZyUSRWHDJFyJrQUbbr1
+  Status: Ok
+  Log Messages:
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC invoke [1]
+    Program log: Instruction: Update
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC consumed 1337 of 1400000 compute units
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC success
+Transaction executed in slot 336322:
+  Signature: 2TWXWfe88xzf5urSST9MwEBrRvhaSfzLty4w2URCSFgsHbuZvPuYhxPtjJuqARLruGHf3hMmwixinuRGe98vqx8D
+  Status: Ok
+  Log Messages:
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC invoke [1]
+    Program log: Instruction: Increment
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC consumed 1333 of 1400000 compute units
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC success
+Transaction executed in slot 336323:
+  Signature: 2TWXWfe88xzf5urSST9MwEBrRvhaSfzLty4w2URCSFgsHbuZvPuYhxPtjJuqARLruGHf3hMmwixinuRGe98vqx8D
+  Status: Ok
+  Log Messages:
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC invoke [1]
+    Program log: Instruction: Increment
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC consumed 1333 of 1400000 compute units
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC success
+Transaction executed in slot 336323:
+  Signature: 7qmYbHeVvBbzwPVqgg6KSpLduM3XphdSweAcMHxgGRXjb2nGh6Fep43ZHEBs1gGxFt3Kdgm1xzJGEkpPBf4WuHX
+  Status: Ok
+  Log Messages:
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC invoke [1]
+    Program log: Instruction: Decrement
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC consumed 1334 of 1400000 compute units
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC success
+Transaction executed in slot 336324:
+  Signature: 7qmYbHeVvBbzwPVqgg6KSpLduM3XphdSweAcMHxgGRXjb2nGh6Fep43ZHEBs1gGxFt3Kdgm1xzJGEkpPBf4WuHX
+  Status: Ok
+  Log Messages:
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC invoke [1]
+    Program log: Instruction: Decrement
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC consumed 1334 of 1400000 compute units
+    Program 7eDkqmoqcWxue7eNB5WVtngkooTMZ2pciDqaajN5C2dC success

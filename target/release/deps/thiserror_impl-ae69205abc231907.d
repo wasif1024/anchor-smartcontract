@@ -1,0 +1,12 @@
+/Users/air/Documents/programmingwork/anchorFramework/anchor/examples/tutorial/basic-1/target/release/deps/libthiserror_impl-ae69205abc231907.dylib: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/ast.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/attr.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/expand.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/fmt.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/generics.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/prop.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/valid.rs
+
+/Users/air/Documents/programmingwork/anchorFramework/anchor/examples/tutorial/basic-1/target/release/deps/thiserror_impl-ae69205abc231907.d: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/ast.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/attr.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/expand.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/fmt.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/generics.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/prop.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/valid.rs
+
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/lib.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/ast.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/attr.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/expand.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/fmt.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/generics.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/prop.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.33/src/valid.rs:
